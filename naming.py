@@ -8,6 +8,7 @@ def want2relax_very_much(name):
 
 want2relax('Star_Feel')
 # want2relax('TobyShi')
+want2relax('zy')
 
 # want2relax('A')
 # want2relax('B')
