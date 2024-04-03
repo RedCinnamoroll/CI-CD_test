@@ -1,6 +1,6 @@
 
 def want2relax(name='Unknown'):
-    print("%s want to have holidays!" % name)
+    print(f'{name} want to have holidays!')
 
 def want2relax_very_much(name):
     for _ in range(100):
