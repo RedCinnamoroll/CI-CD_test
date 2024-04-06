@@ -12,6 +12,5 @@ want2relax('zy')
 
 # want2relax('A')
 # want2relax('B')
-# ...
-
+# want2relax('ohhh')
 want2relax_very_much('Red')
